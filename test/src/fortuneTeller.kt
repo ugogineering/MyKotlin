@@ -1,3 +1,4 @@
+// Written on 12th December 2025
 fun main () {
     var fortune: String
     for (i in 1..10) {
